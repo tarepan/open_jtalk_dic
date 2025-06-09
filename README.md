@@ -12,8 +12,32 @@ This repository is unofficial clone of *Dictionary for Open JTalk* (`open_jtalk_
 *Dictionary for Open JTalk* has many versions, so this repository controls these versions with `git`.  
 You can easily browse dictionary entries, check diffs, clone for your project 😉  
 
+## Contents list
+Extracted *Dictionary for Open JTalk*, `open_jtalk_dic`, is under [`open_jtalk_dic_utf_8-RAW` branch](https://github.com/tarepan/open_jtalk_dic/tree/open_jtalk_dic_utf_8-RAW) without any modification, except for v1.11's `sys.dic`[^v111sysdic].  
+
+Full list of versions is below.  
+
+| `open_jtalk_dic` |
+| :--------------: |
+|      v1.11       |
+|      v1.10       |
+|      v1.09       |
+|      v1.08       |
+|      v1.07       |
+|      v1.06       |
+|      v1.05       |
+|      v1.04       |
+|      v1.03       |
+|      v1.02       |
+|                  |
+|      v1.00       |
+
+All versions have version tags.  
+
+[^v111sysdic]: `sys.dic` became too big for git in v1.11. Replaced by same name placeholder.
+
 ## About Dictionary for Open JTalk
-*Dictionary for Open JTalk* is pre-compiled dictionary of *Open JTalk*[^def].  
+*Dictionary for Open JTalk* is officially-pre-compiled dictionary of *Open JTalk*[^def].  
 The dictionary is distributed as `.tar.gz`.  
 When extracted, some files are binary formats, some files are text formats.  
 
