@@ -38,13 +38,13 @@ All versions have version tags.
 
 ## About Dictionary for Open JTalk
 *Dictionary for Open JTalk* is officially-pre-compiled dictionary of *Open JTalk*[^def].  
-The dictionary is distributed as `.tar.gz`.  
-When extracted, some files are binary formats, some files are text formats.  
+The dictionary is derivatives of *NAIST-jdic* (cf. [unofficial git](https://github.com/tarepan/NAIST-jdic)), with entry modification including accents.  
+The dictionary is distributed as `.tar.gz`. When extracted, some files are binary formats, some files are text formats.  
 
 [^def]: "Dictionary for Open JTalk version 1.11 (25 December, 2018) ... If you cannot compile dictionary, you can use compiled dictionaries as follows." from [official cite](https://open-jtalk.sourceforge.net/)
 
 ## Origin
-[Origin *Open JTalk* project page](https://open-jtalk.sourceforge.net/) is alive at 2025-06-10.  
+[Original *Open JTalk* project page](https://open-jtalk.sourceforge.net/) is alive at 2025-06-10.  
 All source codes are cloned from [SourceForge](https://sourceforge.net/projects/open-jtalk/files/Dictionary/).  
 I'd like to express my gratitude to everyone concerned.  
 
