@@ -17,20 +17,20 @@ Extracted *Dictionary for Open JTalk*, `open_jtalk_dic`, is under [`open_jtalk_d
 
 Full list of versions is below.  
 
-| `open_jtalk_dic` |
-| :--------------: |
-|      v1.11       |
-|      v1.10       |
-|      v1.09       |
-|      v1.08       |
-|      v1.07       |
-|      v1.06       |
-|      v1.05       |
-|      v1.04       |
-|      v1.03       |
-|      v1.02       |
-|                  |
-|      v1.00       |
+|                         `open_jtalk_dic`                          |
+| :---------------------------------------------------------------: |
+|   [v1.11](https://github.com/tarepan/open_jtalk_dic/tree/v1.11)   |
+| [v1.10](https://github.com/tarepan/open_jtalk_dic/tree/v1.10-raw) |
+| [v1.09](https://github.com/tarepan/open_jtalk_dic/tree/v1.09-raw) |
+| [v1.08](https://github.com/tarepan/open_jtalk_dic/tree/v1.08-raw) |
+| [v1.07](https://github.com/tarepan/open_jtalk_dic/tree/v1.07-raw) |
+| [v1.06](https://github.com/tarepan/open_jtalk_dic/tree/v1.06-raw) |
+| [v1.05](https://github.com/tarepan/open_jtalk_dic/tree/v1.05-raw) |
+| [v1.04](https://github.com/tarepan/open_jtalk_dic/tree/v1.04-raw) |
+| [v1.03](https://github.com/tarepan/open_jtalk_dic/tree/v1.03-raw) |
+| [v1.02](https://github.com/tarepan/open_jtalk_dic/tree/v1.02-raw) |
+|                                                                   |
+| [v1.00](https://github.com/tarepan/open_jtalk_dic/tree/v1.00-raw) |
 
 All versions have version tags.  
 
@@ -38,7 +38,7 @@ All versions have version tags.
 
 ## About Dictionary for Open JTalk
 *Dictionary for Open JTalk* is officially-pre-compiled dictionary of *Open JTalk*[^def].  
-The dictionary is derivatives of *NAIST-jdic* (cf. [unofficial git](https://github.com/tarepan/NAIST-jdic)), with entry modification including accents.  
+The dictionary is derivatives of *NAIST-jdic* (cf. [unofficial git](https://github.com/tarepan/NAIST-jdic)), with entry modification including accents and *UniDic*.  
 The dictionary is distributed as `.tar.gz`. When extracted, some files are binary formats, some files are text formats.  
 
 [^def]: "Dictionary for Open JTalk version 1.11 (25 December, 2018) ... If you cannot compile dictionary, you can use compiled dictionaries as follows." from [official cite](https://open-jtalk.sourceforge.net/)
@@ -52,5 +52,4 @@ I'd like to express my gratitude to everyone concerned.
 1. Download all version (`_utf_8` variants) from [SourceForge](https://sourceforge.net/projects/open-jtalk/files/Dictionary/)
 2. Expand these `.tar.gz`
 3. Commit raws with tag
-<!-- 4. Make UTF-8 variants with `./eucjp_to_utf8.py` and manual PDF move
-5. Commit them -->
+4. Make GitHub Releases with origin .tar.gz
